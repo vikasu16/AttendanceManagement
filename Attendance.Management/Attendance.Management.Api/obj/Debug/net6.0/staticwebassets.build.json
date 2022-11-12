@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "73snvpWys0W+WIV7/J85MsPKYnnGG+TAToxHMrfWc2M=",
+  "Source": "Attendance.Management.Api",
+  "BasePath": "_content/Attendance.Management.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Attendance.Management.Api\\wwwroot",
+      "Source": "Attendance.Management.Api",
+      "ContentRoot": "C:\\Users\\Vikas.Upadhayay\\Documents\\AttendanceManagement\\Attendance.Management\\Attendance.Management.Api\\wwwroot\\",
+      "BasePath": "_content/Attendance.Management.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
