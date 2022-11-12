@@ -1,0 +1,1 @@
+Project using angular as UI and .net core v6 as backend and sql server for all the database changes.
