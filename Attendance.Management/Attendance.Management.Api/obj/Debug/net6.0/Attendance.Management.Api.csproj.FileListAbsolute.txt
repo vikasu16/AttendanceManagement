@@ -48,10 +48,13 @@ C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\At
 C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\bin\Debug\net6.0\Attendance.Management.Common.dll
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\bin\Debug\net6.0\Attendance.Management.Common.pdb
 C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\obj\Debug\net6.0\Attendance.Management.Api.csproj.AssemblyReference.cache
 C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\obj\Debug\net6.0\Attendance.Management.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Api\obj\Debug\net6.0\Attendance.Management.Api.AssemblyInfoInputs.cache

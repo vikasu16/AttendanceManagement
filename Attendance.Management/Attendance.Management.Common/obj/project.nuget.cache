@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CvWpCBoyZseXqhULyYZ8Wcxo8RCKEXd4pA/ceoDmTziYwT66iv9u07rVFWm5rHMecWBem7D7gB8l4/2HsCPzTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vikas.Upadhayay\\Documents\\AttendanceManagement\\Attendance.Management\\Attendance.Management.Common\\Attendance.Management.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vikas.Upadhayay\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F8tF8A+i3fQG4WCbVFoDNxrk+If9NOHCxOUkurQcouyrtSPodQSaGeGe471pIDNrXTE60Zc7aHCIqYCbixkyoQ==",
+  "dgSpecHash": "Mq3W8sxQFPBIg4X224fgqmG425jw/hq6cGrNRfCBKkZXctn8XeK3UkHe2vyNfoTFYygk/LTBSgFYtTuurNu8jg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vikas.Upadhayay\\Documents\\AttendanceManagement\\Attendance.Management\\Attendance.Management.Api\\Attendance.Management.Api.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\Vikas.Upadhayay\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "C:\\Users\\Vikas.Upadhayay\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
     "C:\\Users\\Vikas.Upadhayay\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Vikas.Upadhayay\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Vikas.Upadhayay\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Vikas.Upadhayay\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Vikas.Upadhayay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

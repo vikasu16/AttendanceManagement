@@ -1,0 +1,12 @@
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\bin\Debug\net6.0\Attendance.Management.Common.deps.json
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\bin\Debug\net6.0\Attendance.Management.Common.dll
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\bin\Debug\net6.0\Attendance.Management.Common.pdb
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\net6.0\Attendance.Management.Common.csproj.AssemblyReference.cache
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\net6.0\Attendance.Management.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\net6.0\Attendance.Management.Common.AssemblyInfoInputs.cache
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\net6.0\Attendance.Management.Common.AssemblyInfo.cs
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\net6.0\Attendance.Management.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\net6.0\Attendance.Management.Common.dll
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\net6.0\refint\Attendance.Management.Common.dll
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\net6.0\Attendance.Management.Common.pdb
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\net6.0\ref\Attendance.Management.Common.dll

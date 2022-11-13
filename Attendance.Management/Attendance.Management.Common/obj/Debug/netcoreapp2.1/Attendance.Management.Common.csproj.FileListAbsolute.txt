@@ -1,0 +1,8 @@
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\bin\Debug\netcoreapp2.1\Attendance.Management.Common.deps.json
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\bin\Debug\netcoreapp2.1\Attendance.Management.Common.dll
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\bin\Debug\netcoreapp2.1\Attendance.Management.Common.pdb
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\netcoreapp2.1\Attendance.Management.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\netcoreapp2.1\Attendance.Management.Common.AssemblyInfoInputs.cache
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\netcoreapp2.1\Attendance.Management.Common.AssemblyInfo.cs
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\netcoreapp2.1\Attendance.Management.Common.dll
+C:\Users\Vikas.Upadhayay\Documents\AttendanceManagement\Attendance.Management\Attendance.Management.Common\obj\Debug\netcoreapp2.1\Attendance.Management.Common.pdb
